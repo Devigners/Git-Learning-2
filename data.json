@@ -1,0 +1,11 @@
+{
+  "ammi": "fozia",
+  "total_sabziyan": 3,
+  "total_paise": 150,
+  "sabziyan": ["aaloo", "tamatar", "pyaaz"],
+  "sabziyan_miqdaar": 
+  "paise": {
+    "note": { "10_note": 3, "20_note": 5 },
+    "1_coin": 20
+  }
+}
