@@ -3,7 +3,11 @@
   "total_sabziyan": 3,
   "total_paise": 150,
   "sabziyan": ["aaloo", "tamatar", "pyaaz"],
-  "sabziyan_miqdaar": 
+  "sabziyan_miqdaar": {
+    "aaloo" : 2,
+    "tamatar" : 3,
+    "pyaaz" : 5
+  },
   "paise": {
     "note": { "10_note": 3, "20_note": 5 },
     "1_coin": 20
